@@ -38,6 +38,8 @@ bundle install
 ./happy_new_year.rb 2025 puffy
 ```
 
+5. Please press `Ctrl + C` to exit this script
+
 # Acknowledgments
 
 I would like to appreciate the creators of the following libraries I utilized.
