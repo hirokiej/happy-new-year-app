@@ -18,6 +18,11 @@ Required Gems:
 ## Usage
 
 1. Clone this repository to your local machine.
+
+```
+git clone https://github.com/hirokiej/happy-new-year-app
+```
+
 2. Install the required gem:
 
 ```
