@@ -40,6 +40,14 @@ bundle install
 
 5. Please press `Ctrl + C` to exit this script
 
+## Information
+
+You can view available fonts by running the following command:
+
+```
+artii -l
+```
+
 # Acknowledgments
 
 I would like to appreciate the creators of the following libraries I utilized.
